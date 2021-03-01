@@ -3,7 +3,7 @@
   "name": "cfw",
   "license": "MIT",
   "devDependencies": {
-    "@progfay/scrapbox-parser": "^2.1.1",
+    "@progfay/scrapbox-parser": "^6.0.3",
     "@types/node": "^12.7.2",
     "@typescript-eslint/eslint-plugin": "^2.0.0",
     "@typescript-eslint/parser": "^2.0.0",
